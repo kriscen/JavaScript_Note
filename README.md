@@ -1,4 +1,4 @@
-# Vue_Note
+# JavaScript_Note
 
 ![vscode中vue插件](./images/VUE.png)
 
