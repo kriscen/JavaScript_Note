@@ -6,5 +6,5 @@
 
 ------
 
-![Nodejs](./images/Nodejs.png)
+![Nodejs](./images/NodeJs.png)
 
