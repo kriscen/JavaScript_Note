@@ -1,4 +1,10 @@
 # JavaScript_Note
 
-![vscode中vue插件](./images/VUE.png)
+![Vue](./images/VUE.png)
+
+
+
+------
+
+![Nodejs](./images/Nodejs.png)
 
